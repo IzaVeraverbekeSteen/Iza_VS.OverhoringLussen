@@ -4,14 +4,36 @@ let leeftijd = 17
 
 if (i = 0 ; i < 16; i++;){
     console.log("Geen toegang")}
-    else (i = 16; i < 18 ; i++;) {
+    if (i = 16; i < 18 ; i++;) {
         console.log["Toegang onder begeleiding"]
     }
-    else (i = 18; i > 18; i++; )
+    if (i = 18; i > 18; i++;)
     {console.log["Volledige toegang."]}
 
 // OEF 2
 
-const {[19, 22, 26, 21, 29, 18]}
+const temperatuur = (19, 22, 26, 21, 29, 18)
 
-for (i = 0; i >)
+if (i = 0; i >= 25; i++;)
+{console.log["WAARSCHUWING: Hoge temperatuur" + i]}
+
+if (i = 0; i < 25; i++){
+    console.log["Temperatuur normaal" + i]
+}
+
+
+// OEF 3
+
+const getallen = (12, -5, 8, -3, 0, 19, -11)
+if (i = 0; i > 0; i++){
+    console.log["Postief"]
+}
+if (i = 0; i < 0; i++)
+{console.log["Negatief"]}
+
+// OEF 4
+
+let nieuweLaptop = 1200
+let spaargeld = 250
+
+
