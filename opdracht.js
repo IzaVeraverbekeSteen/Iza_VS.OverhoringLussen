@@ -1,10 +1,16 @@
+/**
+ * je maakt de mix tussen een for lus en een if lus.
+ * Heb je voldoende oefeningen gemaakt, heb je de theorie bekeken? 
+ * Ik kan hier heel moeilijk punten op geven 
+ */
+
 // OEF 1
 
 let leeftijd = 17
 
 if (i = 0 ; i < 16; i++;){
     console.log("Geen toegang")}
-    if (i = 16; i < 18 ; i++;) {
+    if (i = 16; i < 18 ; i++;) { // dit is code die niet bestaat :(
         console.log["Toegang onder begeleiding"]
     }
     if (i = 18; i > 18; i++;)
